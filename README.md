@@ -1,14 +1,19 @@
 # OpenCore Dell G3 3590 Gaming Laptop
 
 ## Image
+
 Desktop
 ![Screen Shot 2024-09-22 at 13 34 35](https://github.com/user-attachments/assets/5eafa0c0-9c08-485b-bdc1-27120c2cba92)
+
 OS Info
 ![Screen Shot 2024-09-22 at 13 34 48](https://github.com/user-attachments/assets/f42575ff-6cfd-495d-9c75-3aba2713bab2)
+
 Specs
 ![Screen Shot 2024-09-22 at 14 23 21](https://github.com/user-attachments/assets/2a54f1f8-40ec-4098-8b2d-01a9b27a5edc)
+
 Bluetooth
-![Screen Shot 2024-09-22 at 15 24 56](https://github.com/user-attachments/assets/0035daa2-b258-48dc-8ae3-6f1bfc2d3f56)
+![Screen Shot 2024-09-22 at 15 24 56](https://github.com/user-attachments/assets/76a8b42b-5be9-4ffe-87d7-0bb1e00da11e)
+
 
 
 ## Configuration
