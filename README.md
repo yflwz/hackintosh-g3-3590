@@ -23,7 +23,7 @@
 | Sound Card          | Realtek ALC295 |
 | Wireless Card       | Intel (R) Dual Band Wireless-AC 8265, Bluetooth wireless interface |
 
-##Current Status
+## Current Status
 
 - Opencore version: 0.6.5 (can be upgraded to latest version).
 - **Apple TV+ not working due to dGPU not supported**
