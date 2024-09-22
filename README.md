@@ -15,7 +15,7 @@
 | Computer model      | Dell G3 3590 Gaming laptop      |
 | Processor           | Intel core i5 9300H, 4 cores 8 threads |
 | RAM                 | 16GB (1x16GB) 2666MHz |
-| Hard Disk           | CS SSD A2 M.2 NVME 512GB, HDD TOSHIBA MQ01ACF050 500GB|
+| Hard Disk           | CS SSD A2 M.2 NVME 512GB, HDD TOSHIBA MQ01ACF050 500GB SATA 3|
 | OS                  | macOS Monterey 12.7.6, Windows 10 IoT Enterprise LTSC|
 | Integrated Graphics | Intel UHD Graphics 630 |
 | Discrete Graphics   | Nvidia Geforce GTX 1050 3GB (disabled)|
