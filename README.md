@@ -1,6 +1,6 @@
 # OpenCore Dell G3 3590 Gaming Laptop
 
-#Image
+##Image
 
 ![Screen Shot 2024-09-22 at 13 34 35](https://github.com/user-attachments/assets/5eafa0c0-9c08-485b-bdc1-27120c2cba92)
 
