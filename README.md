@@ -22,7 +22,7 @@ Bluetooth
 | ------------------- | ------------------------------------------- |
 | Computer model      | Dell G3 3590 Gaming laptop      |
 | Processor           | Intel core i5 9300H, 4 cores 8 threads |
-| RAM                 | 16GB (1x16GB) 2666MHz |
+| RAM                 | 16GB (1x16GB) 2666MHz DDR4, can be upgraded to 128GB (Max) |
 | Hard Disk           | CS SSD A2 M.2 NVME 512GB, HDD TOSHIBA MQ01ACF050 500GB SATA 3|
 | OS                  | macOS Monterey 12.7.6, Windows 10 IoT Enterprise LTSC|
 | Integrated Graphics | Intel UHD Graphics 630 |
