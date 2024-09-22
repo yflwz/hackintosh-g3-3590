@@ -33,7 +33,7 @@ Bluetooth
 
 ## Current Status
 
-- Opencore version: 0.9.4 (can be upgraded to latest version).
+- Opencore version: 0.9.4
 - **Apple TV+ not working due to dGPU not supported**
 - **Internal microphone is not working (Smart Sound Technology is not supported by mac)**
 - Everything else works, **except AirDrop**.
