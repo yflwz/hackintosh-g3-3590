@@ -35,7 +35,7 @@ Bluetooth
 
 - Opencore version: 0.9.4
 - **Apple TV+ not working due to dGPU not supported**
-- **Internal microphone is not working (Smart Sound Technology is not supported by mac)**
+- **Internal microphone is not working (Smart Sound Technology is not supported by macOS)**
 - Everything else works, **except AirDrop**.
 - Dual-bootable with Monterey 12.7.6.
 - Audio patched and working correctly.
