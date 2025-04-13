@@ -2,18 +2,6 @@
 
 ## Image
 
-Desktop
-![Screen Shot 2024-09-22 at 13 34 35](https://github.com/user-attachments/assets/5eafa0c0-9c08-485b-bdc1-27120c2cba92)
-
-OS Info
-![Screen Shot 2024-09-22 at 13 34 48](https://github.com/user-attachments/assets/f42575ff-6cfd-495d-9c75-3aba2713bab2)
-
-Specs
-![Screen Shot 2024-09-22 at 14 23 21](https://github.com/user-attachments/assets/2a54f1f8-40ec-4098-8b2d-01a9b27a5edc)
-
-Bluetooth
-![Screen Shot 2024-09-22 at 15 24 56](https://github.com/user-attachments/assets/76a8b42b-5be9-4ffe-87d7-0bb1e00da11e)
-
 
 
 ## Configuration
@@ -23,20 +11,15 @@ Bluetooth
 | Computer model      | Dell G3 3590 Gaming laptop      |
 | Processor           | Intel core i5 9300H, 4 cores 8 threads |
 | RAM                 | 16GB (1x16GB) 2666MHz DDR4, can be upgraded to 128GB (Max) |
-| Hard Disk           | CS SSD A2 M.2 NVME 512GB, HDD TOSHIBA MQ01ACF050 500GB SATA 3|
-| OS                  | macOS Monterey 12.7.6, Windows 10 IoT Enterprise LTSC|
+| Hard Disk           | M.2 NVME 1TB, HDD 1000GB SATA 3|
+| OS                  | macOS Monterey 13.7.5, Windows 11 Enterprise LTSC|
 | Integrated Graphics | Intel UHD Graphics 630 |
-| Discrete Graphics   | Nvidia Geforce GTX 1050 3GB (disabled)|
+| Discrete Graphics   | Nvidia Geforce GTX 1650 3GB (disabled)|
 | Monitor             | FHD 1920x1080 non-touchscreen (15.6") IPS|
 | Sound Card          | Realtek ALC295 |
-| Wireless Card       | Intel (R) Dual Band Wireless-AC 8265, Bluetooth wireless interface |
+| Wireless Card       | Intel (R) Wireless-AC 9560, Bluetooth wireless interface |
 
 ## Current Status
 
-- Opencore version: 0.9.4
-- **Apple TV+ not working due to dGPU not supported**
-- **Internal microphone is not working (Smart Sound Technology is not supported by macOS)**
-- Everything else works, **except AirDrop**.
-- Dual-bootable with Monterey 12.7.6.
-- Audio patched and working correctly.
+- Opencore version: 1.0.4
 
